@@ -18,11 +18,12 @@
     "newcli": "./bin/run"
   },
   "dependencies": {
-    "csv-parser": "^2.3.2",
-    "dotenv": "^8.2.0",
     "@oclif/command": "^1.5.19",
     "@oclif/config": "^1.13.3",
-    "@oclif/plugin-help": "^2.2.3"
+    "@oclif/plugin-help": "^2.2.3",
+    "csv-parser": "^2.3.2",
+    "dotenv": "^8.2.0",
+    "sib-api-v3-sdk": "^7.1.4"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.22.2",
