@@ -4,11 +4,12 @@
   "description": "Birthday kata (Wemanity - SupInfo)",
   "main": "index.js",
   "scripts": {
-    "test": "echo NO TESTS",
+    "test": "jest",
     "postpack": "rimraf oclif.manifest.json",
     "posttest": "eslint .",
     "prepack": "oclif-dev manifest && oclif-dev readme",
-    "version": "oclif-dev readme && git add README.md"
+    "version": "oclif-dev readme && git add README.md",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
