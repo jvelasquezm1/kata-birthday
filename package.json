@@ -1,0 +1,19 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Birthday kata (Wemanity - SupInfo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvelasquezm1/kata-birthday.git"
+  },
+  "author": "Jim, Juan, Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvelasquezm1/kata-birthday/issues"
+  },
+  "homepage": "https://github.com/jvelasquezm1/kata-birthday#readme"
+}
